@@ -49,7 +49,7 @@ This repository provides tools for:
 2. Set up a Python virtual environment:
 
    ```bash
-   python3 -m venv venv
+   py -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 

@@ -1,0 +1,8 @@
+dask
+ipywidgets
+pandas
+pandas-plink
+numpy
+statsmodels
+subprocess
+os

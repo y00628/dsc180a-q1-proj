@@ -42,7 +42,7 @@ This repository provides tools for:
 1. Clone the repository:
 
    ```bash
-   git clone [<repository_url>](https://github.com/y00628/dsc180a-q1-proj)
+   git clone https://github.com/y00628/dsc180a-q1-proj
    cd dsc180a-q1-proj
    ```
 

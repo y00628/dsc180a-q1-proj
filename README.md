@@ -42,8 +42,8 @@ This repository provides tools for:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone [<repository_url>](https://github.com/y00628/dsc180a-q1-proj)
+   cd dsc180a-q1-proj
    ```
 
 2. Set up a Python virtual environment:
